@@ -15,8 +15,8 @@ from woocommerce import API
 # WooCommerce REST API Integration
 wcapi = API(
     url="https://blush-blooms.com",
-    consumer_key="ck_c0038260d0685cc16fa1500434798e0b8f2e1879",
-    consumer_secret="cs_3da9a061dc038b77781d1023bf429ded37fddd0f",
+    consumer_key="",
+    consumer_secret="",
     # verify_ssl = False,
     wp_api=True,
     version="wc/v3",
