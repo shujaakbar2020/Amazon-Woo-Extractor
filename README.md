@@ -1,1 +1,1 @@
-# AmazonScraperForWooCommerce
+# Amazon to WooCommerce Extractor
